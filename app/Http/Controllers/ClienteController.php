@@ -5,8 +5,6 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Services\ClienteService;
 
-use function PHPUnit\Framework\returnSelf;
-
 class ClienteController extends Controller
 {
 
